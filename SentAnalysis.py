@@ -7,7 +7,7 @@ url = "https://api.nytimes.com/svc/search/v2/articlesearch.json"
 # Search parameters for articles containing the term "economic development"
 params = {
     "q": "economic development",
-    "api-key": "pVNXbP0D9tSdz8LWiZ0seWKu1tsv5srb"
+    "api-key": "your key here"
 }
 
 # Send a GET request to the API and store the response
